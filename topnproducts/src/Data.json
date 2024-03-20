@@ -1,0 +1,444 @@
+{
+    "companies": [
+      {
+        "company_name": "Company A",
+        "products": [
+          {
+            "product_name": "Product A1",
+            "price": 10.99,
+            "rating": 4.5,
+            "discount": 0.2,
+            "availability": true
+          },
+          {
+            "product_name": "Product A2",
+            "price": 20.49,
+            "rating": 3.8,
+            "discount": 0.15,
+            "availability": false
+          },
+          {
+            "product_name": "Product A3",
+            "price": 15.99,
+            "rating": 4.2,
+            "discount": 0.1,
+            "availability": true
+          },
+          {
+            "product_name": "Product A4",
+            "price": 9.99,
+            "rating": 4.1,
+            "discount": 0.05,
+            "availability": true
+          },
+          {
+            "product_name": "Product A5",
+            "price": 18.75,
+            "rating": 4.3,
+            "discount": 0.2,
+            "availability": false
+          },
+          {
+            "product_name": "Product A6",
+            "price": 22.99,
+            "rating": 3.9,
+            "discount": 0.15,
+            "availability": true
+          },
+          {
+            "product_name": "Product A7",
+            "price": 11.49,
+            "rating": 4.0,
+            "discount": 0.1,
+            "availability": true
+          },
+          {
+            "product_name": "Product A8",
+            "price": 13.99,
+            "rating": 4.4,
+            "discount": 0.05,
+            "availability": false
+          },
+          {
+            "product_name": "Product A9",
+            "price": 17.25,
+            "rating": 4.6,
+            "discount": 0.2,
+            "availability": true
+          },
+          {
+            "product_name": "Product A10",
+            "price": 28.99,
+            "rating": 3.7,
+            "discount": 0.15,
+            "availability": false
+          },
+          {
+            "product_name": "Product A11",
+            "price": 14.49,
+            "rating": 4.2,
+            "discount": 0.1,
+            "availability": true
+          },
+          {
+            "product_name": "Product A12",
+            "price": 16.99,
+            "rating": 4.3,
+            "discount": 0.05,
+            "availability": true
+          },
+          {
+            "product_name": "Product A13",
+            "price": 19.75,
+            "rating": 4.5,
+            "discount": 0.2,
+            "availability": false
+          },
+          {
+            "product_name": "Product A14",
+            "price": 21.99,
+            "rating": 4.1,
+            "discount": 0.15,
+            "availability": true
+          },
+          {
+            "product_name": "Product A15",
+            "price": 12.49,
+            "rating": 4.0,
+            "discount": 0.1,
+            "availability": true
+          }
+        ]
+      },
+      {
+        "company_name": "Company C",
+        "products": [
+          {
+            "product_name": "Product C1",
+            "price": 15.75,
+            "rating": 4.2,
+            "discount": 0.1,
+            "availability": true
+          },
+          {
+            "product_name": "Product C2",
+            "price": 25.99,
+            "rating": 4.0,
+            "discount": 0.25,
+            "availability": true
+          },
+          {
+            "product_name": "Product C3",
+            "price": 12.49,
+            "rating": 3.9,
+            "discount": 0.05,
+            "availability": false
+          },
+          {
+            "product_name": "Product C4",
+            "price": 18.99,
+            "rating": 4.3,
+            "discount": 0.2,
+            "availability": true
+          },
+          {
+            "product_name": "Product C5",
+            "price": 30.75,
+            "rating": 4.1,
+            "discount": 0.1,
+            "availability": false
+          },
+          {
+            "product_name": "Product C6",
+            "price": 22.99,
+            "rating": 4.5,
+            "discount": 0.15,
+            "availability": true
+          },
+          {
+            "product_name": "Product C7",
+            "price": 14.49,
+            "rating": 3.8,
+            "discount": 0.05,
+            "availability": true
+          },
+          {
+            "product_name": "Product C8",
+            "price": 16.99,
+            "rating": 4.6,
+            "discount": 0.2,
+            "availability": false
+          },
+          {
+            "product_name": "Product C9",
+            "price": 19.25,
+            "rating": 3.7,
+            "discount": 0.1,
+            "availability": true
+          },
+          {
+            "product_name": "Product C10",
+            "price": 27.99,
+            "rating": 4.0,
+            "discount": 0.15,
+            "availability": true
+          },
+          {
+            "product_name": "Product C11",
+            "price": 11.49,
+            "rating": 4.2,
+            "discount": 0.05,
+            "availability": false
+          },
+          {
+            "product_name": "Product C12",
+            "price": 17.99,
+            "rating": 4.4,
+            "discount": 0.2,
+            "availability": true
+          },
+          {
+            "product_name": "Product C13",
+            "price": 20.75,
+            "rating": 3.9,
+            "discount": 0.1,
+            "availability": true
+          },
+          {
+            "product_name": "Product C14",
+            "price": 24.99,
+            "rating": 4.5,
+            "discount": 0.15,
+            "availability": false
+          },
+          {
+            "product_name": "Product C15",
+            "price": 13.49,
+            "rating": 4.1,
+            "discount": 0.05,
+            "availability": true
+          }
+        ]
+      },
+      {
+        "company_name": "Company C",
+        "products": [
+            {
+                "product_name": "Product C1",
+                "price": 15.75,
+                "rating": 4.2,
+                "discount": 0.1,
+                "availability": true
+              },
+              {
+                "product_name": "Product C2",
+                "price": 25.99,
+                "rating": 4.0,
+                "discount": 0.25,
+                "availability": true
+              },
+              {
+                "product_name": "Product C3",
+                "price": 12.49,
+                "rating": 3.9,
+                "discount": 0.05,
+                "availability": false
+              },
+              {
+                "product_name": "Product C4",
+                "price": 18.99,
+                "rating": 4.3,
+                "discount": 0.2,
+                "availability": true
+              },
+              {
+                "product_name": "Product C5",
+                "price": 30.75,
+                "rating": 4.1,
+                "discount": 0.1,
+                "availability": false
+              },
+              {
+                "product_name": "Product C6",
+                "price": 22.99,
+                "rating": 4.5,
+                "discount": 0.15,
+                "availability": true
+              },
+              {
+                "product_name": "Product C7",
+                "price": 14.49,
+                "rating": 3.8,
+                "discount": 0.05,
+                "availability": true
+              },
+              {
+                "product_name": "Product C8",
+                "price": 16.99,
+                "rating": 4.6,
+                "discount": 0.2,
+                "availability": false
+              },
+              {
+                "product_name": "Product C9",
+                "price": 19.25,
+                "rating": 3.7,
+                "discount": 0.1,
+                "availability": true
+              },
+              {
+                "product_name": "Product C10",
+                "price": 27.99,
+                "rating": 4.0,
+                "discount": 0.15,
+                "availability": true
+              },
+              {
+                "product_name": "Product C11",
+                "price": 11.49,
+                "rating": 4.2,
+                "discount": 0.05,
+                "availability": false
+              },
+              {
+                "product_name": "Product C12",
+                "price": 17.99,
+                "rating": 4.4,
+                "discount": 0.2,
+                "availability": true
+              },
+              {
+                "product_name": "Product C13",
+                "price": 20.75,
+                "rating": 3.9,
+                "discount": 0.1,
+                "availability": true
+              },
+              {
+                "product_name": "Product C14",
+                "price": 24.99,
+                "rating": 4.5,
+                "discount": 0.15,
+                "availability": false
+              },
+              {
+                "product_name": "Product C15",
+                "price": 13.49,
+                "rating": 4.1,
+                "discount": 0.05,
+                "availability": true
+              }
+        ]
+      },
+      {
+        "company_name": "Company D",
+        "products": [
+            {
+                "product_name": "Product D1",
+                "price": 15.75,
+                "rating": 4.2,
+                "discount": 0.1,
+                "availability": true
+              },
+              {
+                "product_name": "Product D2",
+                "price": 25.99,
+                "rating": 4.0,
+                "discount": 0.25,
+                "availability": true
+              },
+              {
+                "product_name": "Product D3",
+                "price": 12.49,
+                "rating": 3.9,
+                "discount": 0.05,
+                "availability": false
+              },
+              {
+                "product_name": "Product D4",
+                "price": 18.99,
+                "rating": 4.3,
+                "discount": 0.2,
+                "availability": true
+              },
+              {
+                "product_name": "Product D5",
+                "price": 30.75,
+                "rating": 4.1,
+                "discount": 0.1,
+                "availability": false
+              },
+              {
+                "product_name": "Product D6",
+                "price": 22.99,
+                "rating": 4.5,
+                "discount": 0.15,
+                "availability": true
+              },
+              {
+                "product_name": "Product D7",
+                "price": 14.49,
+                "rating": 3.8,
+                "discount": 0.05,
+                "availability": true
+              },
+              {
+                "product_name": "Product D8",
+                "price": 16.99,
+                "rating": 4.6,
+                "discount": 0.2,
+                "availability": false
+              },
+              {
+                "product_name": "Product D9",
+                "price": 19.25,
+                "rating": 3.7,
+                "discount": 0.1,
+                "availability": true
+              },
+              {
+                "product_name": "Product D10",
+                "price": 27.99,
+                "rating": 4.0,
+                "discount": 0.15,
+                "availability": true
+              },
+              {
+                "product_name": "Product D11",
+                "price": 11.49,
+                "rating": 4.2,
+                "discount": 0.05,
+                "availability": false
+              },
+              {
+                "product_name": "Product D12",
+                "price": 17.99,
+                "rating": 4.4,
+                "discount": 0.2,
+                "availability": true
+              },
+              {
+                "product_name": "Product D13",
+                "price": 20.75,
+                "rating": 3.9,
+                "discount": 0.1,
+                "availability": true
+              },
+              {
+                "product_name": "Product D14",
+                "price": 24.99,
+                "rating": 4.5,
+                "discount": 0.15,
+                "availability": false
+              },
+              {
+                "product_name": "Product D15",
+                "price": 13.49,
+                "rating": 4.1,
+                "discount": 0.05,
+                "availability": true
+              }
+        ]
+      }
+    ]
+    }
